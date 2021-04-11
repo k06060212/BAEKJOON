@@ -1,4 +1,4 @@
-package B1_inout_arithmetic;
+package B1_01_inout_arithmetic;
 
 import java.util.Scanner;
 

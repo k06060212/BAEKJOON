@@ -1,4 +1,4 @@
-package B1_inout_arithmetic;
+package B1_01_inout_arithmetic;
 
 public class B1_04_10172_dog {
 	
